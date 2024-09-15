@@ -1,0 +1,9 @@
+:root{
+    --color1: #ffa319;
+    --color2: #52339a;
+}
+
+.ska_span_ac{
+
+    background: var(--color1);
+}

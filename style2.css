@@ -4,6 +4,23 @@
 }
 
 .ska_span_ac{
-
     background: var(--color1);
+}
+.header_top{
+    cursor: pointer;
+}
+.header-top-menu__dot-svg{
+    width: 5px;
+    height: 10px;
+    margin-right: 10px;
+}
+.header-top-menu__common-link {
+    user-select: none;
+    cursor: pointer;
+    line-height: 21px;
+    color: #4e4e4e;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
 }
